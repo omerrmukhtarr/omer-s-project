@@ -28,7 +28,7 @@ word-spacing: 1px;
 }
 
 .back{
-    background-image: url(/img/kitten-6394969.jpg);
+    background-image: url(./img/kitten-6394969.jpg);
     height: 600px;
   background-position: center;
   background-repeat: no-repeat;
@@ -85,7 +85,6 @@ a {
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    /* background-color: transparent; */
     background-color: #f7faff;
     border-radius: 50px;
 
@@ -196,11 +195,10 @@ div.polaroid {
   background-color: rgb(255, 255, 255);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
-  
+
 }
 
 div.container {
-    
   text-align: center;
   padding: 5px 20px;
 }
@@ -216,7 +214,7 @@ font-size: 20px;
 .tcar{
     background-color: rgba(0, 0, 0, 0.39);
     border-radius: 20px;
-  
+
 }
 .ttext{
      color: white;
@@ -277,7 +275,7 @@ font-size: 20px;
 
 hr.style11 {
 	height: 6px;
-	background: url(/img/cat-3535404.jpg) repeat-x 0 0;
+	background: url(./img/cat-3535404.jpg) repeat-x 0 0;
     border: 0;
     border-top: 1px dashed black;
 }
@@ -331,7 +329,7 @@ border-radius: 2em;
 }
 
 .footer {
-    background-image: url(/img//pexels-lumn-406014.jpg);
+    background-image: url(./img//pexels-lumn-406014.jpg);
     background-size: cover;
 
 }
